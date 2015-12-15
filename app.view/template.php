@@ -52,7 +52,46 @@
                     <!--JavaScript-->
                 </head>
                 <body>
-                        #CONTENT#
+                    <div id="interface" class="12u center">
+
+                        <header id="cabecalho">
+
+                            <img id="logo" src="app.view/img/logo.png">
+
+                        <div class="12u center" style="background-color: rgba(97,146,84,.90)">
+                            <nav id="menu">
+                                <ul>
+                                    <li><a href="/">Home</a></li>
+                                    <li><a href="/nossoatendimento">Nossos Atendimentos</a></li>
+                                    <li><a href="/estetica">Estética</a></li>
+                                    <li><a href="/contato">Contato</a></li>
+                                </ul>
+                            </nav>
+                        </div>
+
+                        </header>
+                        
+                            <section id="corpo">
+                                #CONTENT#
+                            </section>
+
+                        <footer id="rodape">
+                            <div id="rodape" class="12u" style="background-color: rgba(97,146,84,.90)">
+                                <div id="localizacao" class="4u left">
+                                    <h1>Localização</h1>
+                                    <p>Rua Minas Gerais nº 214, Centro</p>
+                                </div>
+                                <div id="contato" class="4u right">
+                                    <h1>Contato</h1>
+                                    <p>Telefone: (35)XXXX-XXXX / Celular (35)XXXX-XXXX</p>
+                                    <p>E-mail: gilberto@don.com.br</p>
+                                </div>
+                            </div>
+                        </footer>
+                    </div>
+
+
+                        
                 </body>
             </html>
 

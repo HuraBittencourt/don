@@ -37,7 +37,13 @@
 		public function show()
 		{
 			?>
-				HOME
+				<p>Texto apenas para encher linguiça !!</p>
+				<h1>Testando um H1 !!</h1>
+				<img src="app.view/img/Teste.png">
+
+
+
+				<hr>
 			<?php
 		}
 	}

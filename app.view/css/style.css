@@ -19,6 +19,52 @@ hr
     background-image:   -o-linear-gradient(left,        rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0)); 
 }
 
+nav#menu li
+{
+    display: inline-block;
+    background-color: rgba(97,146,84,.0);
+    color: white;
+    font-size: 1.3em;
+    padding: 10px;
+    margin: 2px;
+    transition: background-color 0.5s;
+}
+
+nav#menu li:hover
+{
+    background-color: white;
+    color: black;
+}
+
+div#rodape
+{
+    padding: 5px;
+    display: inline-block;
+}
+
+div#localizacao 
+{
+    background-color: rgba(97,146,84,.0);
+    position: relative;
+    float: left;
+    padding: 8px;
+    margin-left: 50px;
+}
+
+div#contato
+{
+    background-color: rgba(97,146,84,.0);
+    position: relative;
+    float: right;
+    padding: 8px;
+    margin-right: 50px;
+}
+
+section#corpo
+{
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
 
 
 strong

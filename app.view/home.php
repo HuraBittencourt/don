@@ -39,7 +39,32 @@
 			?>
 				<p>Texto apenas para encher linguiça !!</p>
 				<h1>Testando um H1 !!</h1>
-				<img src="app.view/img/Teste.png">
+				
+				<!-- conteudo -->
+				<div class="row">
+					<!-- slide -->
+					<div class="9u"> 
+						<div class="row carrousel">
+							<div class="slide">
+								<div class="row">
+									<!-- imagem -->
+									<div class="9u">
+										<img src="/app.view/img/lug_paisagens_03022010_08.jpg" class="imagemslide">
+									</div>
+									<!-- texto -->
+									<div class="3u">
+										<h1>Facetas</h1>
+										<p>A melhor opção para seus dentes ! A mais nova tecnologia no mercado</p>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- videos -->
+					<div class="3u">
+						
+					</div>
+				</div>
 
 
 

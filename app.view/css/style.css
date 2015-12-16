@@ -19,6 +19,17 @@ hr
     background-image:   -o-linear-gradient(left,        rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0)); 
 }
 
+nav#menu li a
+{
+    color: white;
+    text-decoration: none;
+}
+
+nav#menu li:hover a
+{
+    color: black;
+}
+
 nav#menu li
 {
     display: inline-block;
@@ -46,7 +57,6 @@ div#localizacao
 {
     background-color: rgba(97,146,84,.0);
     position: relative;
-    float: left;
     padding: 8px;
     margin-left: 50px;
 }
@@ -55,7 +65,6 @@ div#contato
 {
     background-color: rgba(97,146,84,.0);
     position: relative;
-    float: right;
     padding: 8px;
     margin-right: 50px;
 }
@@ -127,4 +136,11 @@ p
     margin-right:   auto;
     text-align:     center;
     display:        block;
+}
+
+.imagemslide
+{
+    height: 450px;
+    margin-left: 30px;
+    position: relative;
 }

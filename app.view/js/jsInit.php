@@ -13,4 +13,10 @@
         grid:           true,
         containers:     "90%!",
     });
+
+    $('.carrousel').bxSlider({
+        slideWidth: 5000,
+        minSlides: 1,
+        maxSlides: 1
+    });
 </script>

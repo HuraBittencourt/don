@@ -7,3 +7,6 @@
 <!--CSS-->
 <link rel="stylesheet" href="/app.view/css/style.css">
 <link rel="stylesheet" href="/app.view/css/formulario.css">
+
+<!--SLIDE-->
+<link rel="stylesheet" href="/app.view/css/jquery.bxslider.css">

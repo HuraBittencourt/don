@@ -8,3 +8,6 @@
 <!--MASKED INPUT-->
 <script type="text/javascript" src="/app.view/js/jquery.maskedinput.js"></script>
 <script type="text/javascript" src="/app.view/js/jquery.price_format.js"></script>
+
+<!--SLIDE-->
+<script type="text/javascript" src="/app.view/js/jquery.bxslider.js"></script>

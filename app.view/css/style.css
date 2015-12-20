@@ -75,6 +75,18 @@ section#corpo
     margin-bottom: 20px;
 }
 
+div#efeitoCarrousel
+{
+    padding-top: 2px;
+    padding-bottom: 10px;
+}
+
+img#imagem
+{
+    display: block;
+    position: right;
+}
+
 
 strong
 {

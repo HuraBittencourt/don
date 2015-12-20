@@ -24,6 +24,7 @@
 .bx-wrapper img {
 	max-width: 100%;
 	display: block;
+	float: right; /* ESSE FOI ALTERADO POR MIM */
 }
 
 /** THEME

@@ -78,11 +78,11 @@
                         <footer id="rodape">
                             <div id="rodape" class="12u" style="background-color: rgba(97,146,84,.90)">
                                 <div class="row">
-                                    <div id="localizacao" class="4u left" style="background-color: red;">
+                                    <div id="localizacao" class="4u left">
                                         <h1>Localização</h1>
                                         <p>Rua Minas Gerais nº 214, Centro</p>
                                     </div>
-                                    <div id="contato" class="4u -2u right" style="background-color: blue;">
+                                    <div id="contato" class="4u -2u right">
                                         <h1>Contato</h1>
                                         <p>Telefone: (35)XXXX-XXXX / Celular (35)XXXX-XXXX</p>
                                         <p>E-mail: gilberto@don.com.br</p>
